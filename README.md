@@ -6,7 +6,7 @@ This algorithm can detect straight lane lines in both videos and images
 
 ## Getting Started
 Here's what you should have installed on your local system:
-  - Anacaonda + Jupyter Notebooks 
-  - Python 3.10 or later
-  - Numpy 1.16 
-  - OpenCV 4
+  - Anacaonda + Jupyter Notebooks or any Text Editor. 
+  - Python 3.10 or later.
+  - Numpy 1.16.
+  - OpenCV 4.
